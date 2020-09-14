@@ -1,0 +1,12 @@
+p{
+    font-size:  13px;
+    word-spacing:12px ;
+    line-height: 30px;
+    letter-spacing:2px ;
+}
+
+h1{
+    font-style: inherit;
+    text-decoration: underline  wavy red;
+    letter-spacing: 4px;
+}

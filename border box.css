@@ -1,0 +1,14 @@
+hr{
+    width: 500px;
+    margin-left: 0px;
+    border: dotted 2px rgb(10, 24, 218);
+}
+
+.p1{
+    width: 500px;
+    background-color: rgb(150, 115, 132);
+    border: 50px solid rgb(121, 8, 8);
+    box-sizing:border-box ;
+    padding: 10px;
+}
+

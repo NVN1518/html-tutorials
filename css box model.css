@@ -1,0 +1,27 @@
+h1{
+    border: 4px brown solid;
+}
+h1{
+    /* padding-left: 40px;
+     padding-top: 50px;
+     padding-right: 40px;
+     padding-bottom: 40px; */
+
+     padding: 50px;
+     /* ye likhen s even padding ho jayegi in al directions */
+
+     padding: 20px 40px;
+     /* ye likhen s 20 top bottom and 40 left right ho jayegi padding  */
+
+
+     /* padding: 20px 30px 40px 30px; */
+     /* ye clock wise de degi padding */
+
+
+     margin: 20px auto ;
+     width: 500px;
+     text-align: center;
+     background-color: cornflowerblue;
+}
+
+

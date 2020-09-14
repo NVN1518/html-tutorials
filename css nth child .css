@@ -1,0 +1,13 @@
+/* p:nth-child(2){
+    color: red;
+}  */
+
+
+/* p:nth-child(2n){
+    color: red;
+}  ye har dusre child k liye h */
+
+
+p:nth-of-type(2){
+    color: red ;
+}

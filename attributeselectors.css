@@ -1,0 +1,36 @@
+input[type = "text"]{
+    color: red;
+    background-color: seashell;
+}
+
+input[type = "password"]{
+    color: red;
+    background-color: seashell;
+}
+
+
+
+a[href="https://www.youtube.com/"]{
+    color: rgb(6, 138, 56);
+}
+
+
+
+
+a[href*="youtube"]{
+    color: rgb(241, 20, 20);
+}
+/* ye  uske liye h jis m bb youtube ho wha ka color change ho jaye */
+
+
+
+a[href^="https"]{
+    color: violet;
+}
+
+/* ye uske liye h jo https s start ho rhe ho */
+
+a[href $=".com"]{
+    color: rgb(250, 17, 17);
+}
+

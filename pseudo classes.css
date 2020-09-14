@@ -1,0 +1,43 @@
+/*oreder yhi rkhna h-- link,visited ,hover,active */
+
+
+ a:link{
+    color: red;
+}
+
+a:visited{
+    color: rgb(219, 204, 204);
+}
+
+
+
+
+a:hover{
+    color: purple;
+}
+
+
+a:active{
+    color: yellow;
+}
+
+p:hover{
+    color: red;
+}
+
+
+p:active{
+    background: #cdcd;
+} 
+
+
+
+input:focus{
+    padding: 3px;
+    outline: none;
+    border: 2px solid green;
+}
+
+input:required{
+    color: red;
+}

@@ -1,0 +1,21 @@
+p::after{
+    content: " hello how are u 789";
+}
+
+p::before{
+    content: " hey";
+    color: green;
+    border: 2px dotted aqua;
+    display: inline-block;
+}
+
+.headingg::before{
+    content: "look ";
+    color: rebeccapurple;
+    background: rosybrown;
+    font-weight: lighter;
+    text-decoration: tomato;
+    padding: 2px;
+}
+
+/* img,br,input feild, k sath use ni kr skte */

@@ -1,0 +1,29 @@
+/* body :not(.fancy){
+    color:red;
+    word-spacing: 2px;
+    background: lightgray;
+} */
+ /* iska mtlb body k ander jo p ni h uska color change kr do */
+
+
+ div:empty{
+     background: lightpink;
+     height: 50px;
+     width: 50px;
+     border: 2px solid purple;
+ }
+
+
+
+
+ /* :root{
+     background: #333;
+     color: #eee; 
+ } */
+/* html{
+    background: red;
+     color: #222;
+} */
+
+
+/* root ot html same baat h,root jyada specific h */

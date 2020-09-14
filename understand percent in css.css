@@ -1,0 +1,18 @@
+p{
+     font-size: 100%; 
+    border: 1px solid gray;
+     width: 50%;
+    background: ivory;
+    text-align: center;
+  
+    margin-left: 25%;  
+
+    /* bydefault 16px hota h 100%uska 1 hota h and 200 uska 16*2 */
+}
+
+
+div{
+    font-size: 20px; 
+    border: 2px solid red;
+    width: 50%;
+}

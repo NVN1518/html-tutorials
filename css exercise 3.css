@@ -1,0 +1,28 @@
+header{
+    background: lightslategrey;
+    border: lightslategrey soloid 2px;
+    height:30px;
+    text-align: center;
+    padding: 20px;
+    
+}
+
+h1{
+    border-bottom: lightslategrey solid 2px;
+}
+
+
+div{
+    margin: 15px;
+}
+a{
+    padding: 0px 5px;
+    color: lightyellow;
+}
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,500&display=swap');
+
+
+body{
+    font-family: 'Poppins', sans-serif;
+    padding: 5px;
+}

@@ -1,0 +1,13 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.raamu{
+    background-color: yellow;
+}
+
+#kaalu{
+    background-color: violet;
+}
+p{
+    background-color: #cdcdcc;
+}

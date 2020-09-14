@@ -1,0 +1,18 @@
+:root{
+    font-size: 10px;
+    font-size: 62.5%;
+}
+
+
+
+h1{
+    font-size: 2rem;
+    border:4px solid red;
+    padding: 1em;
+}
+
+p{
+    font-size: 1.8rem;
+}
+/* we should use rem for the font size in order to create responsive website */
+/* for padding hame em use krne chahiye */

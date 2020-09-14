@@ -1,0 +1,37 @@
+header{
+    color: peru;
+}
+
+header p{
+    color: rgb(236, 16, 16);
+}
+
+section.my-articles{
+    background-color: #808079;
+}
+
+header a{
+    color: blue;
+}
+
+#pappu{
+    color: cornflowerblue;
+}
+
+section.my-articles h2{
+    color: green;
+}
+
+article h3{
+    color: indigo;
+}
+
+
+section.my-articles >h2{
+    color: red;
+}
+
+h2+p
+{
+    color: teal;
+}

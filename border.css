@@ -1,0 +1,28 @@
+h2 ,img{
+    border: 4px solid red;
+}
+h2{
+    width: 85px;
+}
+
+div{
+    border: 3px ridge brown;
+}
+
+li{
+    /* border:outset green 1px; */
+    border-top: ridge 2px black;
+    border-radius: 10px;
+}
+
+li {
+    width: 85px;
+}
+
+p{
+    border: 4px solid brown;
+}
+
+span{
+    border: 4px solid red;
+}

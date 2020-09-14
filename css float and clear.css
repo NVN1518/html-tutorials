@@ -1,0 +1,54 @@
+*{
+    box-sizing: border-box;
+}
+.fav-musicians{
+    border:10px solid green;
+}
+
+.mozart{
+    /* border:2px solid red; */
+    width: 25%;
+    float: left;
+    background-color: goldenrod;
+    padding: 20px;
+}
+
+.beethoven{
+    /* border:2px solid red; */
+    width: 25%;
+    float: left;
+    background-color: rgb(224, 216, 195);
+    padding: 20px;
+
+}
+
+
+
+.raftaar{
+    width: 25%;
+    float: left;
+    background-color: lightcyan;
+    padding: 20px;
+}
+
+
+
+
+.honey{
+    width: 25%;
+    float: left;
+    background-color: lightblue;
+    padding: 20px;
+
+}
+/* .clearfix {
+    clear: both;
+} */
+
+
+.fav-musicians::after{
+
+    content: "MONU DON";
+    display: block;
+    clear: both;
+}

@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTML FORMS</title>
+</head>
+<body>
+    <H1>Html forms</H1>
+    <form action="hey.html" method="GET">
+
+        <label for="username">Username</label>
+        <input type="text" name="username" id="username" placeholder="bkl username daal" required><br><br>
+        
+        <label for="password">Password</label>
+        <input type="password" id="password" name="password" placeholder="password madarchod"  required><br><br>
+
+        <label for="email">Email</label>
+        <input type="email"id="email" name="email" placeholder="email kya tera baap dalega"  required><br><br>
+
+
+
+        <p>select your gender</p>
+        <label for="male">Male</label>
+        <input type="radio" name="gender" id="male" value="male" required>
+
+        <label for="female">Female</label>
+        <input type="radio" name="gender" id="female" value="female" required>
+
+        <label for="not specific">Not specific</label>
+        <input type="radio" name="gender" id="not specific" value="not specific" required>  <br><br>
+
+
+
+        <label for="age-group">Age group </label>
+        <select name="age group values" id="age-group">
+            <option value="5-10">5-10</option>
+            <option value="11-15">11-15</option>
+            <option value="16-56">16-56</option>
+            <option value="above 56">56+</option>
+        </select>
+        <input type="submit" value="submit">
+    </form>
+</body>
+</html>
